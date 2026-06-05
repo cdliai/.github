@@ -1,0 +1,20 @@
+title: "[Announcement] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this category for release notes, public lab updates, security-safe status notes, and roadmap announcements.
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: What changed or what should readers know first?
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Add relevant context, links, migration notes, or follow-up work.
+    validations:
+      required: false

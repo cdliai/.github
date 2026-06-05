@@ -4,5 +4,8 @@ contact_links:
     url: mailto:info@cdli.ai
     about: Do not open public issues for secrets, vulnerabilities, or private data.
   - name: Private product or partnership request
-    url: mailto:info@cdli.ai
-    about: Contact CDLI directly for private product, account, or partnership topics.
+    url: https://cdli.ai/work-with-us
+    about: Contact CDLI for private product, account, partnership, or sponsorship topics.
+  - name: Ticari is birligi veya public destek
+    url: https://cdli.ai/tr/birlikte-calisalim
+    about: Turkce ticari calisma, sponsorluk veya private urun talepleri icin.

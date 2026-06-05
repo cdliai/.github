@@ -4,6 +4,8 @@
   <a href="#english">English</a> ·
   <a href="#turkce">Türkçe</a> ·
   <a href="https://cdli.ai">Website</a> ·
+  <a href="https://cdli.ai/work-with-us">Work with us</a> ·
+  <a href="https://github.com/orgs/cdliai/projects/8">Roadmap</a> ·
   <a href="https://github.com/cdliai">GitHub</a> ·
   <a href="mailto:info@cdli.ai">Contact</a>
 </p>
@@ -15,6 +17,13 @@
 
 CDLI builds production systems where language models, retrieval, automation, and human review work together. Our public work is a window into the research, tools, and engineering practices behind private product systems.
 
+We are a commercial product and systems company. Public repositories are the inspectable part of the lab: reusable tools, agent-facing interfaces, language technology experiments, and governance patterns that should be understandable from the outside.
+
+- Work with us: https://cdli.ai/work-with-us
+- Public support and sponsorship: https://cdli.ai/work-with-us
+- Public roadmap: https://github.com/orgs/cdliai/projects/8
+- Security reports: info@cdli.ai
+
 </details>
 
 <details id="turkce">
@@ -23,6 +32,13 @@ CDLI builds production systems where language models, retrieval, automation, and
 ## Ajan tabanlı yazılım, karar zekası ve uygulamalı AI altyapısı için ürün ve sistem laboratuvarı.
 
 CDLI; dil modelleri, geri getirim, otomasyon ve insan denetiminin birlikte çalıştığı üretim sistemleri geliştirir. Açık çalışmalarımız, özel ürün sistemlerinin arkasındaki araştırma, araçlar ve mühendislik pratiklerine açılan bir penceredir.
+
+CDLI kar amacı güden bir ürün ve sistem şirketidir. Public repolar; laboratuvarın dışarıdan incelenebilir kısmıdır: tekrar kullanılabilir araçlar, agent-facing arayüzler, dil teknolojisi deneyleri ve anlaşılır governance pratikleri.
+
+- Birlikte çalışalım: https://cdli.ai/tr/birlikte-calisalim
+- Public destek ve sponsorluk: https://cdli.ai/tr/birlikte-calisalim
+- Public roadmap: https://github.com/orgs/cdliai/projects/8
+- Güvenlik bildirimleri: info@cdli.ai
 
 </details>
 
@@ -38,6 +54,16 @@ CDLI; dil modelleri, geri getirim, otomasyon ve insan denetiminin birlikte çal�
 | Knowledge systems | [OpenCR](https://github.com/cdliai/opencr), [Holy Graph](https://github.com/cdliai/holy-graph) | Public infrastructure experiments |
 | Internal platforms | Orqel Intelligence, D3NS, Daedalus, BetterQuery | Private systems |
 
+## Public Lab Index
+
+| Repository | Role | Best first path |
+| --- | --- | --- |
+| [Durak](https://github.com/cdliai/durak) | Turkish NLP preprocessing in Python and Rust | Documentation, examples, tokenizer behavior |
+| [Ottoman NER](https://github.com/cdliai/ottoman-ner) | Ottoman Turkish named entity recognition | Dataset notes, model cards, evaluation examples |
+| [CDLI Agent Skills](https://github.com/cdliai/cdli-agent-skills) | Agent-facing workflows and public system interfaces | Skill docs, usage examples, review patterns |
+| [OpenCR](https://github.com/cdliai/opencr) | Open coordination and research primitives | Public methods, research notes, issue shaping |
+| [Holy Graph](https://github.com/cdliai/holy-graph) | Developer knowledge graph experiments | Visualization examples, graph importers, docs |
+
 ## Operating Principles
 
 - Review-first engineering: protected default branches, CODEOWNER review gates, and explicit ownership.
@@ -51,6 +77,7 @@ CDLI repositories use protected default branches and owner review gates. Securit
 
 - [Security policy](https://github.com/cdliai/.github/blob/main/SECURITY.md)
 - [Contribution guide](https://github.com/cdliai/.github/blob/main/CONTRIBUTING.md)
+- [Governance](https://github.com/cdliai/.github/blob/main/GOVERNANCE.md)
 - [Support](https://github.com/cdliai/.github/blob/main/SUPPORT.md)
 
 ## Work With Us
@@ -63,4 +90,8 @@ We are interested in collaborations around:
 - applied decision intelligence
 - production-grade AI infrastructure
 
-Reach us at [info@cdli.ai](mailto:info@cdli.ai).
+Start here:
+
+- English: [Work with CDLI](https://cdli.ai/work-with-us)
+- Türkçe: [CDLI ile çalışın](https://cdli.ai/tr/birlikte-calisalim)
+- Email: [info@cdli.ai](mailto:info@cdli.ai)

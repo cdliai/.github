@@ -1,0 +1,34 @@
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this category for public, non-sensitive ideas around CDLI public repositories and methods.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem or opportunity are you pointing at?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed direction
+      description: What is the smallest useful version of this idea?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Agent skills
+        - Turkish NLP
+        - Ottoman NLP
+        - Knowledge systems
+        - Documentation
+        - Governance
+        - Other
+    validations:
+      required: true

@@ -1,0 +1,20 @@
+title: "[Q&A] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this category for public questions. Do not include secrets, private product data, credentials, or vulnerability details.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What do you want to understand?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What repository, command, document, or workflow are you asking about?
+    validations:
+      required: false
