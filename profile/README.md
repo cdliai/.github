@@ -1,10 +1,30 @@
 # CDLI.ai
 
-**Product and systems lab for agentic software, decision intelligence, and applied AI infrastructure.**
+<p>
+  <a href="#english">English</a> ·
+  <a href="#turkce">Turkce</a> ·
+  <a href="https://cdli.ai">Website</a> ·
+  <a href="https://github.com/cdliai">GitHub</a> ·
+  <a href="mailto:info@cdli.ai">Contact</a>
+</p>
+
+<details id="english" open>
+<summary><strong>English</strong></summary>
+
+## Product and systems lab for agentic software, decision intelligence, and applied AI infrastructure.
 
 CDLI builds production systems where language models, retrieval, automation, and human review work together. Our public work is a window into the research, tools, and engineering practices behind private product systems.
 
-[Website](https://cdli.ai) · [GitHub](https://github.com/cdliai) · [Contact](mailto:info@cdli.ai)
+</details>
+
+<details id="turkce">
+<summary><strong>Turkce</strong></summary>
+
+## Ajan tabanli yazilim, karar zekasi ve uygulamali AI altyapisi icin urun ve sistem laboratuvari.
+
+CDLI; dil modelleri, geri getirim, otomasyon ve insan denetiminin birlikte calistigi uretim sistemleri gelistirir. Acik calismalarimiz, ozel urun sistemlerinin arkasindaki arastirma, araclar ve muhendislik pratiklerine acilan bir penceredir.
+
+</details>
 
 ---
 
