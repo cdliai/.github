@@ -1,42 +1,46 @@
 # CDLI.ai
 
-**Advancing Human Potential Through AI**
+**Product and systems lab for agentic software, decision intelligence, and applied AI infrastructure.**
 
-We build intelligent systems that push the boundaries of artificial cognition, autonomous agents, and human-machine collaboration. Our work spans foundational AI research, agentic automation, and robotic intelligence.
+CDLI builds production systems where language models, retrieval, automation, and human review work together. Our public work is a window into the research, tools, and engineering practices behind private product systems.
 
-## What We Do
-
-We develop technologies at the intersection of artificial intelligence, robotics, and cognitive systems. Our research explores how autonomous agents can augment human capabilities and accelerate the path toward general intelligence.
-
-Our focus areas include:
-- Autonomous agent architectures and coordination
-- AI-driven decision systems for complex environments  
-- Robotic cognition and embodied intelligence
-- Human-AI collaboration frameworks
-
-## Open Source
-
-We believe knowledge compounds when shared. Our public repositories include research tools, language processing utilities, and experimental frameworks that advance the broader AI community.
-
-Private research and commercial systems are developed separately to translate foundational work into real-world impact.
-
-## Philosophy
-
-We are pragmatic about technology, idealistic about outcomes. AI should serve human flourishing, not replace human agency. We pursue technologies that amplify human potential rather than substitute it.
-
-The path to advanced AI requires open collaboration, rigorous research, and responsible development. We contribute to that path through both public knowledge and private innovation.
-
-## Get Involved
-
-We welcome contributions, collaborations, and thoughtful discussion.
-
-- **Contribute:** Check our public repositories for issues and contribution guidelines
-- **Collaborate:** Reach out if you're working on related problems
-- **Follow:** Stay updated on our research and releases
-
-**Website:** [cdli.ai](https://cdli.ai)  
-**Contact:** info@cdli.ai
+[Website](https://cdli.ai) · [GitHub](https://github.com/cdliai) · [Contact](mailto:info@cdli.ai)
 
 ---
 
-*On the edge of cognitive revolution.*
+## Systems
+
+| Area | Repositories | Status |
+| --- | --- | --- |
+| Product platforms | [ULAK backend](https://github.com/cdliai/ulak-backend), [ULAK Apple app](https://github.com/cdliai/ulak-apple-app), [ULAK landing](https://github.com/cdliai/ulak-landing) | Private product development |
+| Agent tooling | [CDLI Agent Skills](https://github.com/cdliai/cdli-agent-skills) | Public interface layer |
+| Language and text intelligence | [Durak](https://github.com/cdliai/durak), [Ottoman NER](https://github.com/cdliai/ottoman-ner), [Ottominer](https://github.com/cdliai/ottominer) | Public research and tooling |
+| Knowledge systems | [OpenCR](https://github.com/cdliai/opencr), [Holy Graph](https://github.com/cdliai/holy-graph) | Public infrastructure experiments |
+| Internal platforms | Orqel Intelligence, D3NS, Daedalus, BetterQuery | Private systems |
+
+## Operating Principles
+
+- Review-first engineering: protected default branches, CODEOWNER review gates, and explicit ownership.
+- Useful public work: public repositories should be installable, inspectable, and connected to a clear problem.
+- Private where necessary: production systems, customer data, secrets, and commercial product logic stay behind tighter access boundaries.
+- Human agency stays central: AI systems should amplify judgment, not hide responsibility.
+
+## Security And Governance
+
+CDLI repositories use protected default branches and owner review gates. Security reports should be sent privately instead of opened as public issues.
+
+- [Security policy](https://github.com/cdliai/.github/blob/main/SECURITY.md)
+- [Contribution guide](https://github.com/cdliai/.github/blob/main/CONTRIBUTING.md)
+- [Support](https://github.com/cdliai/.github/blob/main/SUPPORT.md)
+
+## Work With Us
+
+We are interested in collaborations around:
+
+- agentic workflow design
+- retrieval and evaluation systems
+- Ottoman and Turkish language technologies
+- applied decision intelligence
+- production-grade AI infrastructure
+
+Reach us at [info@cdli.ai](mailto:info@cdli.ai).
