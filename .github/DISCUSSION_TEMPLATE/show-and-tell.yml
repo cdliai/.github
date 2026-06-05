@@ -1,0 +1,20 @@
+title: "[Show and tell] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this category to share public examples, integrations, experiments, benchmarks, or writeups built with CDLI public work.
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Link to the project, repository, paper, demo, or writeup.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: What did you build, test, learn, or compare?
+    validations:
+      required: true

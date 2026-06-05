@@ -1,0 +1,10 @@
+# GitHub reads this file from the public cdliai/.github repository and
+# displays a Sponsor button on repositories that do not define their own
+# funding file.
+#
+# First phase: route support, sponsorship, and commercial inquiries through
+# the CDLI work-with-us page. Add GitHub Sponsors or Open Collective handles
+# here once those profiles are approved and ready.
+
+custom:
+  - "https://cdli.ai/work-with-us"
