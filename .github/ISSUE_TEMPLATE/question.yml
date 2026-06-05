@@ -1,0 +1,24 @@
+name: Question
+description: Ask a public, non-sensitive question about a CDLI open-source project.
+title: "[Question]: "
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep private product, security, account, and partnership requests out of public issues.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What do you want to understand?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What have you tried or read already?
+    validations:
+      required: false
