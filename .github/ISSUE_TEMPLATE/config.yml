@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: mailto:info@cdli.ai
+    about: Do not open public issues for secrets, vulnerabilities, or private data.
+  - name: Private product or partnership request
+    url: mailto:info@cdli.ai
+    about: Contact CDLI directly for private product, account, or partnership topics.
