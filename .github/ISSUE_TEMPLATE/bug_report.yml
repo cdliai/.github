@@ -1,0 +1,49 @@
+name: Bug report
+description: Report a reproducible problem in a public CDLI repository.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve CDLI public projects. Do not include secrets, credentials, private data, or vulnerability details in public issues.
+  - type: input
+    id: repository-area
+    attributes:
+      label: Repository area
+      description: Which package, command, module, or workflow is affected?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+      description: Provide the smallest clear reproduction you can.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, runtime versions, package versions, and relevant configuration.
+    validations:
+      required: false
