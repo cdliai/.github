@@ -2,7 +2,7 @@
 
 <p>
   <a href="#english">English</a> ·
-  <a href="#turkce">Turkce</a> ·
+  <a href="#turkce">Türkçe</a> ·
   <a href="https://cdli.ai">Website</a> ·
   <a href="https://github.com/cdliai">GitHub</a> ·
   <a href="mailto:info@cdli.ai">Contact</a>
@@ -18,11 +18,11 @@ CDLI builds production systems where language models, retrieval, automation, and
 </details>
 
 <details id="turkce">
-<summary><strong>Turkce</strong></summary>
+<summary><strong>Türkçe</strong></summary>
 
-## Ajan tabanli yazilim, karar zekasi ve uygulamali AI altyapisi icin urun ve sistem laboratuvari.
+## Ajan tabanlı yazılım, karar zekası ve uygulamalı AI altyapısı için ürün ve sistem laboratuvarı.
 
-CDLI; dil modelleri, geri getirim, otomasyon ve insan denetiminin birlikte calistigi uretim sistemleri gelistirir. Acik calismalarimiz, ozel urun sistemlerinin arkasindaki arastirma, araclar ve muhendislik pratiklerine acilan bir penceredir.
+CDLI; dil modelleri, geri getirim, otomasyon ve insan denetiminin birlikte çalıştığı üretim sistemleri geliştirir. Açık çalışmalarımız, özel ürün sistemlerinin arkasındaki araştırma, araçlar ve mühendislik pratiklerine açılan bir penceredir.
 
 </details>
 
